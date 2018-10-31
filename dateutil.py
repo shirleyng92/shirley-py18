@@ -8,6 +8,8 @@ Created on Wed Oct 31 10:10:56 2018
 import datetime
 
 currentDate = datetime.date.today()
+
+#Default format YYYY-MM-DD
 print (currentDate)
 print (currentDate.year)
 print (currentDate.month)
