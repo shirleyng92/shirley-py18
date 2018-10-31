@@ -11,3 +11,8 @@ birthdate = datetime.datetime.strptime(birthday,"%d/%m/%y").date()
 
 print ("Your birth month is " + birthdate.strftime('%B'))
 print ("Your birth date is " + birthdate.strftime('%d'))
+
+nextBirthday = datetime.datetime.strptime('7/25/2019','%m/%d/%Y').date()
+currentDate = datetime.date.today()
+
+print (nextBirthday - currentDate)
