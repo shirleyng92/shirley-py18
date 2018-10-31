@@ -18,3 +18,8 @@ print (currentDate.strftime('%d %b,%Y'))
 
 print (currentDate.strftime
 ('Please attend our event %A, %B %d in the year %Y'))
+
+print("Timedelta is 15 days:")
+print (currentDate + datetime.timedelta(days=15))
+print("Timedelta is 25 hours:")
+print (currentDate + datetime.timedelta(hours=25))
