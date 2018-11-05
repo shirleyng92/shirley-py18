@@ -10,7 +10,8 @@ guest = "0"
 
 while guest!= " ":
     guest = input("Who is attending party? If no more please put space. ")
-    guests.append(guest)
+    if guest!= " ":
+        guests.append(guest)
     
 guests.sort()
 
