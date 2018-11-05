@@ -7,10 +7,10 @@ Created on Thu Nov  1 11:34:50 2018
 
 guests = ['MY','SC','Shir','Elaine']
 
-##item from left start from 0
+###item from left start from 0
 #print(guests[2])
 
-##item from right start from -1
+###item from right start from -1
 #print(guests[-1])
 
 ##replacing
@@ -35,9 +35,26 @@ guests = ['MY','SC','Shir','Elaine']
 ##check index position
 #print(guests.index('Shir'))
 
-#printing a range of elements
-for step in range(len(guests)):
-    print(guests[step])
+##printing a range of elements
+#for step in range(len(guests)):
+#    print(guests[step])
 
-#scores = [10,20,30,40,50]
-#print(scores[3])
+##to sort the list in alphabetical order
+#guests.sort()
+
+###to print all value within the array
+#for guest in guests:
+#    print (guest)
+#    
+#print("Done")
+
+
+###Example in number
+scores = [10,30,20,40,50]
+
+scores.sort()
+
+for score in scores:
+    print(score)
+
+print("Done")
