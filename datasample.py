@@ -5,7 +5,7 @@ Created on Wed Nov  7 10:02:02 2018
 @author: shirley.ng
 """
 #
-#import csv
+import csv
 #
 #myCSVFile = open("data/demo.csv","r")
 #dataFromFile = csv.reader(myCSVFile)
