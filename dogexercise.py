@@ -11,11 +11,15 @@ class Dog:
         self.name = name
         self.age = age
 #        
-dog1= Dog("dog1",9)    
-dog2= Dog("dog2",9)
-dog3= Dog("dog3",9)  
+dog1= Dog("dog5",11)    
+dog2= Dog("dog2",12)
+dog3= Dog("dog3",11)  
 
-def get_biggest_number(*args):
-    return max(args)
+def get_biggest_number(*abc):
+    return max(abc)
     
 print("The oldest dog is " + str(get_biggest_number(dog1.age,dog2.age,dog3.age)) + " years old")
+
+#another way to print
+print("The oldest dog is {} years old".format(get_biggest_number(dog1.age,dog2.age,dog3.age)))
+print(f"The oldest dog is {get_biggest_number(dog1.age,dog2.age,dog3.age)} years old")

@@ -1,0 +1,491 @@
+<tbody><tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=31933&amp;Name=Andrei-Dubalov">
+                                    Andrei Dubalov</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Yleisl‰‰ketieteen ja psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=31933&amp;Name=Andrei-Dubalov">
+                                        <img src="/images/specs/43917.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=31141&amp;Name=Fabio-Goderecci">
+                                    Fabio Goderecci</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=31141&amp;Name=Fabio-Goderecci">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=32362&amp;Name=Taneli-Haavisto">
+                                    Taneli Haavisto</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=32362&amp;Name=Taneli-Haavisto">
+                                        <img src="/images/specs/4139.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=29697&amp;Name=Juri-Haikara">
+                                    Juri Haikara</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Yleisl‰‰ketieteen ja psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=29697&amp;Name=Juri-Haikara">
+                                        <img src="/images/specs/44133.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=27827&amp;Name=Mika-Hakala">
+                                    Mika Hakala</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=27827&amp;Name=Mika-Hakala">
+                                        <img src="/images/specs/10006168.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=27825&amp;Name=Jaana-Hiltunen">
+                                    Jaana Hiltunen</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=27825&amp;Name=Jaana-Hiltunen">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=32928&amp;Name=Paavo-Itkonen">
+                                    Paavo Itkonen</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        psykiatrian ja oikeuspsykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=32928&amp;Name=Paavo-Itkonen">
+                                        <img src="/images/specs/37772.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=31967&amp;Name=Viljo-Kuusela">
+                                    Viljo Kuusela</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian ja oikeuspsykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=31967&amp;Name=Viljo-Kuusela">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=34155&amp;Name=Juha-Lehti">
+                                    Juha Lehti</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=34155&amp;Name=Juha-Lehti">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=29369&amp;Name=Olavi-Lounevaara">
+                                    Olavi Lounevaara</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=29369&amp;Name=Olavi-Lounevaara">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=33044&amp;Name=Kati-L%c3%b6ytynoja">
+                                    Kati Lˆytynoja</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=33044&amp;Name=Kati-L%c3%b6ytynoja">
+                                        <img src="/images/specs/10003025.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=28257&amp;Name=Marjo-Pellinen">
+                                    Marjo Pellinen</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian-, Geriatrian ja yleisl‰‰ketieteen erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=28257&amp;Name=Marjo-Pellinen">
+                                        <img src="/images/specs/10005275.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=32422&amp;Name=Jukka-Rajala">
+                                    Jukka Rajala</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=32422&amp;Name=Jukka-Rajala">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=29305&amp;Name=Eeva-Rantanen">
+                                    Eeva Rantanen</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian ja nuorisopsykiatrian erikoisl‰‰k‰ri, psykoterapeutti</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=29305&amp;Name=Eeva-Rantanen">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=32906&amp;Name=Pekka-Roponen">
+                                    Pekka Roponen</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri,psykoterapeutti</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=32906&amp;Name=Pekka-Roponen">
+                                        <img src="/images/specs/2526.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=28704&amp;Name=Markku-Turunen">
+                                    Markku Turunen</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=28704&amp;Name=Markku-Turunen">
+                                        <img src="/images/specs/10002181.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=29483&amp;Name=Armas-Turunen">
+                                    Armas Turunen</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=29483&amp;Name=Armas-Turunen">
+                                        <img src="/images/specs/2411.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=32782&amp;Name=Leena-Vahero">
+                                    Leena Vahero</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=32782&amp;Name=Leena-Vahero">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=27619&amp;Name=Nina-Maria-Ahonen">
+                                    Nina-Maria Ahonen</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=27619&amp;Name=Nina-Maria-Ahonen">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                    
+                        </td>
+                        <td class="last">
+                            
+                            <dl class="some-dlist">
+                                <dt><a href="/fi/References/Specialist/?Specialist=29331&amp;Name=Olli-Pekka-Kaustio">
+                                    Olli-Pekka Kaustio</a><br>
+                                    
+                                    <!--Paikkakunta-->
+                                    
+                                    
+                                    
+                                    
+
+                                    <em>
+                                        Psykiatrian erikoisl‰‰k‰ri, nuorisopsykiatrian erikoisl‰‰k‰ri.</em></dt>
+                                <dd class="image">
+                                    <a href="/fi/References/Specialist/?Specialist=29331&amp;Name=Olli-Pekka-Kaustio">
+                                        <img src="/images/specs/etunimi.sukunimi.jpg" width="45" alt=""></a>
+                                </dd>
+                                
+                            </dl>
+                            
+                        </td>
+                    </tr>
+                    
+                    
+        </tbody>
