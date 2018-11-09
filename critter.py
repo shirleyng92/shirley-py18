@@ -7,16 +7,16 @@ Created on Thu Nov  8 10:56:59 2018
 
 class critter:
     
-    name=""
-    
-    def __init__(self,name):
-        self.name = name
-    
-    def talk(self):
-        print("Hi. I'm", self.name)
+    def talk(self,msg):
+        print(msg)
+     
+    def myName(self):
+        print("I am Test")
         
-crit = critter("Shirley")
-crit.talk()
         
+##this example have no init value, so arguments will not in the class
+crit1 = critter()
+crit1.talk("Hi")
 
-    
+
+#crit1.myName()
