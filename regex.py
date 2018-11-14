@@ -14,53 +14,58 @@ Created on Fri Nov  9 10:45:35 2018
 
 
 ###example2 using regex
-#import re   
+import re   
 #
 #hand = open('data/mbox-short.txt')
 #
 #for line in hand:
 #    line = line.rstrip()
-#    
-#    ##can get any line contain "From:"
-#    #if re.search('From:', line):
-#    
-#    ##only get the line start with "From:"
-#    #if re.search('^From:', line):
-#     
-#    #if re.search('^X.*:', line):
-#    
-##    #^ = match from beginning of line
-##    #X- text to match
-##    #\S non-whitespace
-##    #+ must have 1 and above
-##    #: text to match
-##    if re.search('^X-\S+:', line):
+    
+    ##can get any line contain "From:"
+    #if re.search('From:', line):
+    
+    ##only get the line start with "From:"
+    #if re.search('^From:', line):
+     
+    #if re.search('^X.*:', line):
+    
+#    #^ = match from beginning of line
+#    #X- text to match
+#    #\S non-whitespace
+#    #+ must have 1 and above
+#    #: text to match
+#    if re.search('^X-\S+:', line):
 #
-##        print(line)
-#    
-#    #print(re.findall('[0-9]+',line))
+#    ##at least 1 upper case and 1 number
+#    if re.search('[A-Z][0-9]+', line):
+
+#        print(line)
+    
+    #print(re.findall('[0-9]+',line))
 #    
 
 ##example 3
-#import re
 #
 #x = 'My 2 favourite numbers are 7 and 25'
 #y = re.findall('[0-9]+', x)
 #
 #print(y)
 
-#example 4
-import re
+##example 4
+#
+#hand = open('data/mbox-short.txt')
+#
+#for line in hand:
+#    line = line.rstrip()
+#    
+#        print(line)
 
-hand = open('data/mbox-short.txt')
+x = 'we just received $10.00 for cookies.'
 
-for line in hand:
-    line = line.rstrip()
-    
-    if re.search('[A-Z]+[0-9]+', line):
-        print(line)
-    
-
+##$ is special character,put a slash to treat the special char to string
+##if need to search \s, can use \\s
+y = re.findall('\$[0-9.]+',x)
+print(y)
 
 
 
