@@ -27,5 +27,6 @@ def p_decorate(func):
         return "<p>" + func(name) + "</p>"
     return func_wrapper
 
-my_say_hello = p_decorate(say_hello)
-print(my_say_hello("John"))
+if __name__ == "__main__":
+    my_say_hello = p_decorate(say_hello)
+    print(my_say_hello("John"))
