@@ -19,8 +19,7 @@ def even_fib(n):
 #limit = input("Enter the max Fibonacci number: ")
 #print(even_fib(int(limit)))
 
-
-##need to add line below to run the function only
+##need to add line below to run the function only when called
 if __name__ == "__main__":
     limit = input("Enter the max Fibonacci number: ")
     print(even_fib(int(limit)))
