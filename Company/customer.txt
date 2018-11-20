@@ -1,0 +1,5 @@
+1	chong	MY	cmy	3100	12345	100
+2	ng	KY	nky	4200	43242	200
+3	chu	SC	csc	5300	56252	300
+4	lai	HL	lhl	6400	65636	400
+5	yap	PL	ypl	7500	76753	500
