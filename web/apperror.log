@@ -1,0 +1,91 @@
+2018-11-22 22:12:41,451 - flask.app - ERROR - Exception on /submit [POST]
+Traceback (most recent call last):
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "EntryForms.py", line 72, in signUp
+    cursor.close()
+UnboundLocalError: local variable 'cursor' referenced before assignment
+2018-11-22 22:16:02,938 - flask.app - ERROR - An error occurred400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-11-22 22:16:02,946 - flask.app - ERROR - Exception on /submit [POST]
+Traceback (most recent call last):
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "EntryForms.py", line 72, in signUp
+    cursor.close()
+UnboundLocalError: local variable 'cursor' referenced before assignment
+2018-11-22 22:17:48,202 - flask.app - ERROR - An error occurred400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-11-22 22:17:48,206 - flask.app - ERROR - Exception on /submit [POST]
+Traceback (most recent call last):
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "EntryForms.py", line 72, in submit
+    cursor.close()
+UnboundLocalError: local variable 'cursor' referenced before assignment
+2018-11-22 22:19:58,614 - flask.app - ERROR - An error occurred400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-11-22 22:19:58,618 - flask.app - ERROR - Exception on /submit [POST]
+Traceback (most recent call last):
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "EntryForms.py", line 72, in submit
+    cursor.close()
+UnboundLocalError: local variable 'cursor' referenced before assignment
+2018-11-22 22:23:45,998 - flask.app - WARNING - SQL Query:insert into customer values(123,'doiajd','jaiodj','jadio','1241','15151','123')
+2018-11-22 22:25:15,174 - flask.app - ERROR - An error occurred400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2018-11-22 22:25:15,178 - flask.app - ERROR - Exception on /submit [POST]
+Traceback (most recent call last):
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\shirley.ng\AppData\Local\Continuum\anaconda3\envs\pyoct18\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "EntryForms.py", line 72, in submit
+    cursor.close()
+UnboundLocalError: local variable 'cursor' referenced before assignment
+2018-11-22 22:26:27,086 - flask.app - WARNING - SQL Query:insert into customer values(413,'21313','eqe','eqq','1231','14124','1414')

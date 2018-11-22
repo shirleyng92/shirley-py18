@@ -1,26 +1,36 @@
 <html>
     <head>
-        <title> Customer Entry Page</title>
+        <title> Shirley Company Data</title>
+        
+        
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+    crossorigin="anonymous">
+
+    
         <h1> Customer Entry Form </h1>
     </head>
     <body>
-        <form method="POST" action="/submit" name="form1">
-            <label> Customer Code</label><br />
-            <input type="text" name="cus_code"/><br />
-            <label> Customer Last Name</label><br />
-            <input type="text" name="cus_lname"/><br />
-            <label> Customer First Name</label><br />
-            <input type="text" name="cus_fname"/><br />
-            <label> Customer Initial</label><br />
-            <input type="text" name="cus_initial"/><br />
-            <label> Customer Area Code</label><br />
-            <input type="text" name="cus_areacode"/><br />
-            <label> Customer Phone</label><br />
-            <input type="text" name="cus_phone"/><br />
-            <label> Customer Balance</label><br />
-            <input type="text" name="cus_balance"/><br />
+        <form method="POST" action="/submit" name="form">
+
+        <label> Customer Code :</label>
+        <input type="text" name="cus_code"/><br/>
+        <label> Customer Last Name :</label>
+        <input type="text" name="cus_lname"/><br/>
+        <label> Customer First Name :</label>
+        <input type="text" name="cus_fname"/><br/>
+        <label> Customer Initial :</label>
+        <input type="text" name="cus_initial"/><br/>
+        <label> Customer Area Code :</label>
+        <input type="text" name="cus_areacode"/><br/>
+        <label> Customer Phone :</label>
+        <input type="text" name="cus_phone"/><br/>
+        <label> Customer Balance :</label>
+        <input type="text" name="cus_balance"/><br/>
+          
             <br/>
-            <input type="submit" name ="btnSubmit" value="Submit"/>
+            <input type="submit" class="btn btn-info name ="btnSubmit" value="Submit"/>
+            <input type="button" class="btn btn-info name ="btnback" onclick="history.back()" value="Go back"/>        
+        
         </form>
     </body>
 </html>
