@@ -59,7 +59,11 @@ def submit():
 
             if len(data) is 0:
                 conn.commit()
-                return json.dumps({'message':'User created successfully ! </p> <a href=http://127.0.0.1:725/> Back to Home </a></p>'})
+                #return json.dumps({'message':'User created successfully ! </p> <a href=http://127.0.0.1:725/> Back to Home </a></p>'})
+                
+                txtValue = request.form['cus_fname']
+                print("received:" + txtValue);
+                return render_template('customersubmit.html',inputName=txtValue)
             else:
                 return json.dumps({'error':str(data[0])})
         else:

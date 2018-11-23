@@ -89,3 +89,18 @@ Traceback (most recent call last):
     cursor.close()
 UnboundLocalError: local variable 'cursor' referenced before assignment
 2018-11-22 22:26:27,086 - flask.app - WARNING - SQL Query:insert into customer values(413,'21313','eqe','eqq','1231','14124','1414')
+2018-11-23 09:49:04,108 - flask.app - WARNING - SQL Query:insert into customer values(13,'iqwj','aoifd','djoia','2314','144214','141')
+2018-11-23 09:49:04,165 - flask.app - ERROR - An error occurred'inputName' is undefined
+2018-11-23 09:50:54,307 - flask.app - WARNING - SQL Query:insert into customer values(13,'iqwj','aoifd','djoia','2314','144214','141')
+2018-11-23 09:50:54,313 - flask.app - ERROR - An error occurred(1062, "Duplicate entry '13' for key 'PRIMARY'")
+2018-11-23 09:50:59,833 - flask.app - WARNING - SQL Query:insert into customer values(1341,'iqwj','aoifd','djoia','2314','144214','141')
+2018-11-23 09:50:59,871 - flask.app - ERROR - An error occurred'cus_code' is undefined
+2018-11-23 09:53:52,459 - flask.app - WARNING - SQL Query:insert into customer values(1341,'iqwj','aoifd','djoia','2314','144214','141')
+2018-11-23 09:53:52,471 - flask.app - ERROR - An error occurred(1062, "Duplicate entry '1341' for key 'PRIMARY'")
+2018-11-23 09:53:56,708 - flask.app - WARNING - SQL Query:insert into customer values(134141,'iqwj','aoifd','djoia','2314','144214','141')
+2018-11-23 09:53:56,778 - flask.app - ERROR - An error occurred'cus_code' is undefined
+2018-11-23 09:54:29,481 - flask.app - WARNING - SQL Query:insert into customer values(567,'kay','tete','tk','1234','621371','141')
+2018-11-23 09:54:29,536 - flask.app - ERROR - An error occurred'cus_code' is undefined
+2018-11-23 09:54:47,232 - flask.app - WARNING - SQL Query:insert into customer values(567,'kay','tete','tk','1234','621371','141')
+2018-11-23 09:54:47,243 - flask.app - ERROR - An error occurred(1062, "Duplicate entry '567' for key 'PRIMARY'")
+2018-11-23 09:54:50,817 - flask.app - WARNING - SQL Query:insert into customer values(56741,'kay','tete','tk','1234','621371','141')
